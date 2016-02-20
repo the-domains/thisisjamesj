@@ -1,7 +1,7 @@
 name: thisisjamesj
 favicon: null
-layout_spectrum: 0.7629903266206384
-typography_spectrum: 0.050134894670918584
+layout_spectrum: 1
+typography_spectrum: 0.80416
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.14909742632880807
-  lightness: 0.4018421040382236
-  saturation: 0.8677232605405152
+  brandStrength: 0
+  lightness: 0.9375
+  saturation: 0.375
   rhythmicContrast: 0.9880663042422384
 purpose: []
