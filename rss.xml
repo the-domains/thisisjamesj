@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[thisisjamesj]]></title>
         <description><![CDATA[thisisjamesj]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thisisjamesj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 18:19:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 18:19:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thisisjamesj/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test post.</p>]]></description>
-            <link>undefined425d132f-91ef-4fc3-84ff-5e00e77402de/index.html</link>
+            <link>https://thegrid.ai/thisisjamesj/425d132f-91ef-4fc3-84ff-5e00e77402de/index.html</link>
             <guid isPermaLink="false">425d132f-91ef-4fc3-84ff-5e00e77402de</guid>
-            <pubDate>Sat, 20 Feb 2016 18:17:21 GMT</pubDate>
+            <pubDate>Sat, 20 Feb 2016 18:18:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
