@@ -1,3 +1,4 @@
+favicon: null
 name: thisisjamesj
 opengraph:
   image: null
@@ -9,32 +10,31 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.3154122
   brandStrength: 0.7706093
-  lightness: 0.2616487
+  rhythmicContrast: 0.9880663
   brandColors:
     - '#020202'
     - '#30302F'
     - '#808891'
     - '#DFE0E0'
     - '#C69054'
-  rhythmicContrast: 0.9880663
+  lightness: 0.2616487
 typography_spectrum: 0.5896057
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.8189964
+analytics:
+  twitter: null
+  google: null
+  facebook: null
